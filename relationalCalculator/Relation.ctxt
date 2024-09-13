@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Relation
+comment1.params=attributes
+comment1.target=Relation(java.lang.String[])
+comment2.params=tuple
+comment2.target=Relation\ insert(java.lang.String[])
+comment3.params=
+comment3.target=int\ columns()
+comment4.params=
+comment4.target=int\ tuples()
+comment5.params=tuple
+comment5.target=boolean\ in(java.lang.String[])
+comment6.params=t1\ t2
+comment6.target=boolean\ areTuplesEqual(java.lang.String[],\ java.lang.String[])
+comment7.params=other
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
